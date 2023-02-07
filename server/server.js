@@ -45,4 +45,4 @@ app.post('/', async (req, res) => {
   }
 })
 
-app.listen(4001, () => console.log('AI server started on http://localhost:4001'))
+app.listen(4001, () => console.log('AI server started on https://codex-13ld.onrender.com/'))
